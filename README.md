@@ -58,6 +58,7 @@ Developed by: Subash M Register Number : 212223040210
 ![De 4](https://github.com/SubashM00/FULL_ADDER_SUBTRACTOR/assets/144870586/5af0c865-e857-42d4-9bf5-505b1675bf8f)
 
 **Output Timing Waveform**
+
 ![de 4 4](https://github.com/SubashM00/FULL_ADDER_SUBTRACTOR/assets/144870586/99282457-5c94-4941-96aa-dcfe601cdcc3)
 
 **Result:**
